@@ -1,0 +1,21 @@
+{
+  "name": "result-management",
+  "version": "1.0.0",
+  "description": "This is a result management project.",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Aditya Bhatnagar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.3.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "express-ejs-layouts": "^2.5.1",
+    "mongoose": "^8.0.3",
+    "nodemon": "^3.0.2"
+  }
+}
